@@ -1,0 +1,10 @@
+default:
+  password: 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
+  theme_id: "118887350466"
+  store: v12-footwear-ltd.myshopify.com
+  ignore_files:
+  - node_modules
+  - .github
+  - .env
+  - .gitignore
+  - /config/settings_data.json
